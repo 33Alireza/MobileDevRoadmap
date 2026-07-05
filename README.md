@@ -966,7 +966,7 @@ Goal: Fetch and display data from real APIs with proper handling.
 Goal: Store and retrieve user data offline inside your Flutter app.
 
 * Key-value: shared_preferences, flutter_secure_storage
-* Local databases: Hive, sqflite, drift
+* Local databases: Hive, sqlite, drift
 * Caching and local data models
 
 ---
