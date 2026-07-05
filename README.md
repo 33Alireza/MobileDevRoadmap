@@ -137,9 +137,11 @@ Goal: Understand the platform lifecycle & app structure.
     * Fragment
         * Fragment Lifecycle
         * Fragment Manager
-    * Service
+    * Foreground Services
     * Broadcast Receiver
     * Content Provider
+    * Uri
+    * Resource Qualifiers
 * App Manifest
 * Permissions
 * Resources
