@@ -244,7 +244,6 @@ Goal: Scalable, testable app structure.
     * Model-View-ViewModel (MVVM)
     * Model-View-Intent (MVI)
     * Model-View-Presenter (MVP)
-    * Mode-View-Controller (MVC)
 * Layers :
     * UI → ViewModel → UseCases → Repository → Data Source
 * Unidirectional Data Flow (UDF)
