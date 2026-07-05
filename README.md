@@ -228,6 +228,11 @@ Goal: Build modern, reactive UIs with Material 3.
     * Adaptive Layouts (WindowSizeClass)
 * Widgets (Glance)
 * Notifications Styles
+* Scaffold
+    * Snackbar
+    * Top Bar
+    * Bottom Bar
+    * Floating Action Button
 
 ---
 
