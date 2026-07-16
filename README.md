@@ -2,7 +2,7 @@
 
 # 🚀 Mobile Development Roadmap
 
-[![Languages](https://skillicons.dev/icons?i=kotlin,swift,js,dart,java)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=kotlin,swift,js,dart,java,firebase,supabase,aws,gcp,azure)](https://skillicons.dev)
 
 ---
 
